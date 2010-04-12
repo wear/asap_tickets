@@ -23,11 +23,11 @@ h4, .wiki h3 {font-size: 13px;padding: 2px 10px 1px 0px;margin-bottom: 5px; bord
 
 #account {float:right;}
 
-#header {height:5.3em;margin:0;background-color:#fff;color:#f8f8f8; padding: 4px 8px 0px 6px; position:relative;border-bottom:1px solid #A7C64C;}
+#header {height:6.8em;margin:0;background-color:#fff;color:#f8f8f8; padding: 4px 8px 0px 6px; position:relative;border-bottom:1px solid #A7C64C;}
 #header h1 a.ancestor { font-size: 80%; }
 #quick-search {float:right;}
 
-#main-menu {position: absolute;  bottom: 0px;  left:6px; margin-right: -500px;}
+#main-menu {position: absolute;  bottom: 0px;  left:6px; margin-right: -500px; background:#587AA6;}
 #main-menu ul {margin: 0;  padding: 0;}
 #main-menu li {
   float:left;
